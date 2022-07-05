@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="508" started-at="2022-07-04T19:49:53Z" finished-at="2022-07-04T19:49:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="508" started-at="2022-07-04T19:49:53Z" finished-at="2022-07-04T19:49:53Z">
+      <class name="Project.RestAssuredProject.RAPr1">
+        <test-method status="PASS" signature="tc8()[pri:0, instance:Project.RestAssuredProject.RAPr1@2b80d80f]" name="tc8" duration-ms="498" started-at="2022-07-05T01:19:53Z" finished-at="2022-07-05T01:19:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+      </class> <!-- Project.RestAssuredProject.RAPr1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
